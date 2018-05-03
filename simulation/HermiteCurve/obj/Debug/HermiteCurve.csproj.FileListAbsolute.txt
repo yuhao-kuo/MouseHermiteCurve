@@ -1,0 +1,12 @@
+D:\Project\C#\HermiteCurve\HermiteCurve\bin\Debug\HermiteCurve.exe.config
+D:\Project\C#\HermiteCurve\HermiteCurve\bin\Debug\HermiteCurve.exe
+D:\Project\C#\HermiteCurve\HermiteCurve\bin\Debug\HermiteCurve.pdb
+D:\Project\C#\HermiteCurve\HermiteCurve\obj\Debug\HermiteCurve.csprojResolveAssemblyReference.cache
+D:\Project\C#\HermiteCurve\HermiteCurve\obj\Debug\HermiteCurve.Properties.Resources.resources
+D:\Project\C#\HermiteCurve\HermiteCurve\obj\Debug\HermiteCurve.csproj.GenerateResource.Cache
+D:\Project\C#\HermiteCurve\HermiteCurve\obj\Debug\HermiteCurve.exe
+D:\Project\C#\HermiteCurve\HermiteCurve\obj\Debug\HermiteCurve.pdb
+D:\Project\C#\HermiteCurve\HermiteCurve\obj\Debug\HermiteCurve.HermiteCurveDemo.resources
+D:\Project\C#\HermiteCurve\simulation\HermiteCurve\bin\Debug\HermiteCurve.exe.config
+D:\Project\C#\HermiteCurve\simulation\HermiteCurve\obj\Debug\HermiteCurve.exe
+D:\Project\C#\HermiteCurve\simulation\HermiteCurve\obj\Debug\HermiteCurve.pdb
